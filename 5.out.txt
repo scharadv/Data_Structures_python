@@ -1,0 +1,1 @@
+The maximum time taken that is covered if the pool owner fires 1 lifeguard :  1999800000
